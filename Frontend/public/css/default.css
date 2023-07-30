@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+:root {
+  --primary: #1db954;
+}
+.c_primary {
+  color: var(--primary);
+}
+.bc_primary {
+  background: var(--primary);
+}
